@@ -1,0 +1,21 @@
+# Ahoj Briežky | samostatný rodinný dom v dotyku s prírodou
+
+> V projekte Ahoj Briežky ponúkame na predaj moderný samostatne stojaci rodinný dom, ktorý je aktuálne v štádiu prípravy výstavby. Nehnuteľnosť bude realizovaná na svahovitom pozemku, čo umožňuje efektívne dispozičné riešenie a zároveň zabezpečuje atraktívne výhľady na okolitú krajinu Malých Karpát. Rodinný dom je navrhnutý ako trojpodlažný objekt s celkovou úžitkovou plochou 129,4 m ², situovaný na
+
+## Fakta
+- Typ: rodinné domy
+- Druh nabídky: predaj
+- Dispozice: 4-izbový
+- Plocha: 129.4 m²
+- Podlaží: 0
+- Stav: holopriestor
+- Vlastnictví: firemné
+- Lokalita: Nové Mesto, Bratislava
+- Cena: 799 990 €
+
+## Kontakt
+- Makléř: Mgr. Ľuboš Michalík
+- Telefon: +421903374550
+- E-mail: lubos.michalik@domypreludi.sk
+- Kancelář: Domy pre ľudí s.r.o.
+- Web kanceláře: https://www.domypreludi.sk/

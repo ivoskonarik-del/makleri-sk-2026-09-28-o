@@ -1,0 +1,21 @@
+# Ahoj Briežky | výnimočné bývanie na rozhraní Mesta a prírody
+
+> Projekt Ahoj Briežky predstavuje moderný 4-izbový rodinný dom situovaný v architektonicky riešenom dvojdome, rozdelenom na dve samostatné bytové jednotky (ľavé a pravé krídlo). Každá jednotka je navrhnutá ako samostatná funkčná celok s dôrazom na maximálne súkromie, efektívne dispozičné riešenie a optimalizované prevádzkové náklady. Upozornenie: Projekt sa aktuálne nachádza v prípravnej fáze. Výst
+
+## Fakta
+- Typ: rodinné domy
+- Druh nabídky: predaj
+- Dispozice: 4-izbový
+- Plocha: 127.2 m²
+- Podlaží: 0
+- Stav: holopriestor
+- Vlastnictví: firemné
+- Lokalita: Ahoj, Bratislava
+- Cena: 699 000 €
+
+## Kontakt
+- Makléř: Mgr. Ľuboš Michalík
+- Telefon: +421903374550
+- E-mail: lubos.michalik@domypreludi.sk
+- Kancelář: Domy pre ľudí s.r.o.
+- Web kanceláře: https://www.domypreludi.sk/
